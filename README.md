@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beepboopblap
-- 👀 I’m interested in Chess
-- 🌱 I’m currently learning Stuff
+- 👀 I’m interested in 
+- 🌱 I’m currently learning pygame
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
